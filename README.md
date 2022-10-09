@@ -1,4 +1,4 @@
-# Computer-Science-Programming-With-A-Purpose-Projects
+# Computer-Science: Programming with a Purpose Projects
 
 Currently taking Princeton's "Computer Science: Programming with a Purpose" course to practice the fundamentals, for example: arrays, performance analysis, and recursion. 
 
